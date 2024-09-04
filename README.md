@@ -7,6 +7,6 @@ Jen pro cvicne ucely
 1.
 2.
 
-'''js
+js
 alert()
 '''
