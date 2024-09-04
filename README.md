@@ -1,2 +1,12 @@
-# pg4-24-proj1
-git projekt
+# Prvni github projekt
+## Podnadpis
+Jen pro cvicne ucely
+- 
+-
+
+1.
+2.
+
+'''js
+alert()
+'''
